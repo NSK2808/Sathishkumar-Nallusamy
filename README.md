@@ -1,5 +1,4 @@
 # Sathishkumar-Nallusamy
-👨🏻‍💻  About Me 💡I like to explore new technologies and develop software solutions ✍️  In my free time, I pursue Graphic Design as hobbies ✉️  You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can. 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 # 💫 About Me:
 Hey there! I'm Sathishkumar <br><br>👨🏻‍💻  About Me<br><br>💡  I like to explore new technologies and develop software solutions <br>🌱  I'm on track for working in  Angular,Mysql,nodejs.<br>✍️  In my free time, I pursue Graphic Design as hobbies/side hustles.<br>✉️  You can shoot me an email at sathishnallu99@gmail.com I'll try to respond as soon as I can.<br>📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
